@@ -1,5 +1,7 @@
 This is a template app for the first edition of frida wars.
 
+The native library is compiled in ARM64.
+
 To build this:
 
 - Download latest Android Studio
