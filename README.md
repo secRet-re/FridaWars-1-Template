@@ -5,6 +5,6 @@ The native library is compiled in ARM64.
 To build this:
 
 - Download latest Android Studio
-- During the setup, make sure to SDK 29 and latest NDK with cmake support
+- During the setup, make sure to check SDK 29 and latest NDK with cmake support
 
 Simply open the project and do your stuff
